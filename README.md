@@ -1,0 +1,2 @@
+# patikadev
+ödevler
